@@ -30,4 +30,4 @@
 4. Escreva um programa que tem como entrada um número real representando uma quantidade de tempo em horas e que imprime o tempo em horas e minutos.
 5. Escreva um programa que tem como entrada um valor de área em metros quadrados e que informa a quantidade de caixas de cerâmica necessárias para revestir a área informada, sabendo que uma caixa contém 1,5 m2 de cerâmica.
 
-FIXME Lista de exercícios
+[Lista de exercícios](/lista.md)
