@@ -23,7 +23,7 @@
 
 ---
 ## Exercícios
-
+[Respostas dos Exercícios do PDF](/asma.py)
 1. Escreva um programa que tem como entrada 3 números reais e imprime o menor destes números.
 2. Escreva um programa que tem como entrada um número real positivo e maior do que zero e que calcula e imprime: (a) o quadrado do número; (b) a raiz quadrada do número; (c) a raiz cúbica do número.
 3. Escreva um programa que tem como entrada cinco números inteiros, ignora o menor número e o maior número, e que calcula a média aritmética dos três número restantes.
@@ -31,3 +31,5 @@
 5. Escreva um programa que tem como entrada um valor de área em metros quadrados e que informa a quantidade de caixas de cerâmica necessárias para revestir a área informada, sabendo que uma caixa contém 1,5 m2 de cerâmica.
 
 [Lista de exercícios](/lista.md)
+
+[Respostas da lista de exercícios:](https://github.com/VoiidHead/05-notas_de_aula-03-python/blob/main/Lista%20de%20Exerc%C3%ADcios/taste.py)
